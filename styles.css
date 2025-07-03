@@ -1,1 +1,20 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.first-slide {
+        background-color: #f1c40f;
+      }
+      .second-slide {
+        background-color: #e67e22;
+      }
+      .third-slide {
+        background-color: #e74c3c;
+      }
+      .fourth-slide {
+        background-color: #3498db;
+      }
+      .fifth-slide {
+        background-color: #9b59b6;
+      }
+      .carousel-inner > .item > img {
+        width: 100%;
+        height: auto;
+      }
